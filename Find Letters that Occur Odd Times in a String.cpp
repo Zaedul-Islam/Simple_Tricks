@@ -1,7 +1,7 @@
 /*
 Find Letters that Occur Odd Times in a String.cpp
 Given a string of length at most 100000 consists of lowercase letters only. Find the letters
-that occurs odd times in the string without using extra memory.
+that occur odd times in the string without using extra memory.
 */
 
 #include <bits/stdc++.h>
